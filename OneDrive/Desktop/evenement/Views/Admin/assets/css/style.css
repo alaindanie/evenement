@@ -1,0 +1,9 @@
+
+/* Minimal KaiAdmin-like CSS */
+body { font-family: Arial; background:#f5f6fa; margin:0; padding:0; }
+.navbar { background:#1a2035; color:white; padding:15px; }
+.sidebar { width:220px; background:#2a2f45; height:100vh; float:left; color:white; padding-top:20px; }
+.sidebar a { display:block; padding:10px; color:white; text-decoration:none; }
+.sidebar a:hover { background:#3b3f58; }
+.content { margin-left:220px; padding:20px; }
+.card { background:white; padding:15px; border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1); }
